@@ -1,0 +1,52 @@
+New York
+London
+Paris
+Tokyo
+Mexico City
+Los Angeles
+Dubai
+Seoul
+Shanghai
+Mumbai
+Beijing
+Moscow
+Rome
+Toronto
+Berlin
+Sydney
+Walmart
+Costco
+Target
+Walgreens
+CVS
+Walmart
+Home Depot
+Lowe's
+Best Buy
+Apple Store
+Macy's
+International Space Station (ISS)
+Moon
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Asteroid Belt
+Sun
+Milky Way Galaxy
+Black Hole
+Supermarket
+Department Store
+Convenience Store
+Grocery Store
+Pharmacy
+Gas Station
+Mall
+Shopping Center
+Boutique
+Bookstore
+Clothing Store
+Electronics Store
+Hardware Store

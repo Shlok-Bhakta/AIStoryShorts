@@ -1,0 +1,88 @@
+Pizza
+Hamburger
+Chicken
+Steak
+Rice
+Pasta
+Tacos
+Sushi
+Sandwich
+Salad
+Soup
+Bread
+Eggs
+Fish
+Fruit
+Vegetables
+Cheese
+Milk
+Yogurt
+Ice Cream
+Coffee
+Tea
+Juice
+Soda
+Water
+Bacon
+Sausage
+Ham
+Peanut Butter
+Jelly
+Honey
+Syrup
+Ketchup
+Mustard
+Mayonnaise
+Barbecue Sauce
+Hot Sauce
+Soy Sauce
+Ranch Dressing
+Italian Dressing
+Caesar Dressing
+Balsamic Vinegar
+Olive Oil
+Butter
+Margarine
+Cereal
+Oatmeal
+Granola
+Crackers
+Chips
+Popcorn
+Pretzels
+Cookies
+Cake
+Pie
+Donuts
+Brownies
+Bagels
+Muffins
+Bread
+Rice
+Noodles
+Beans
+Lentils
+Peas
+Corn
+Potatoes
+Sweet Potatoes
+Squash
+Onions
+Garlic
+Ginger
+Tomatoes
+Lettuce
+Carrots
+Peppers
+Apples
+Bananas
+Oranges
+Grapes
+Strawberries
+Blueberries
+Raspberries
+Blackberries
+Cherries
+Watermelon
+Cantaloupe
+Honeydew
